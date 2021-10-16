@@ -28,3 +28,17 @@ padding-top: 20px;
 text-decoration: none;
 color: rgb(155, 35, 35)
 }
+.tab{list-style-type:none;
+    padding: 0;
+    margin: 0;
+
+}
+li a{
+    display:block;
+    text-decoration:none;
+    padding:8px;
+    color:#fff;
+   }
+   li a:hover{
+    background-color:#d51c00;
+   }
